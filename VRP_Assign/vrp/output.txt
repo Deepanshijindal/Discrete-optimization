@@ -1,0 +1,6 @@
+Optimal total route distance: 314.72
+Vehicle routes:
+0 12 0
+0 2 3 7 8 0
+0 4 13 6 14 0
+0 1 5 15 10 9 11 0
